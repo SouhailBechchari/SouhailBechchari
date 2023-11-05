@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Souhail Bechchari</h1>
-<img src="https://i.pinimg.com/736x/8f/50/df/8f50df3d2ec59d0a689ffefc3599b13f.jpg" height="600" width="1000" align="center">
+<img src="https://i.pinimg.com/736x/8f/50/df/8f50df3d2ec59d0a689ffefc3599b13f.jpg" height="400" width="1000" align="center">
 
-<h3 align="center">a dedicated digital development student with a burning passion for all things code.</h3>
+<h3 align="center">Im a dedicated digital development student with a burning passion for all things code.</h3>
 
 - 🔭 I’m currently studying on **Isgi Marrakech**
 
