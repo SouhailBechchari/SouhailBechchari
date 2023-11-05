@@ -1,7 +1,8 @@
-<img src="gg.jpeg" align="center" height="	300 >
-                                          <br>
+
   
 <h1 align="center">Hi 👋, I'm Souhail Bechchari</h1>
+<img src="gg.jpeg" align="center" height="	300 >
+                                        
 <h3 align="center">a dedicated digital development student with a burning passion for all things code.</h3>
 
 - 🔭 I’m currently studying on **Isgi Marrakech**
