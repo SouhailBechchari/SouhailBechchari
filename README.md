@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying on **Isgi Marrakech**
 
-- 🌱 I’m currently learning **ReactJs,C++**
+- 🌱 I’m currently learning **JavaScript,C++,MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SouhailBechchari](https://github.com/SouhailBechchari)
 
