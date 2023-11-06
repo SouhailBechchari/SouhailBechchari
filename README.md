@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Souhail Bechchari</h1>
-<img src="https://i.pinimg.com/736x/1d/fd/8a/1dfd8a09dbd241b6b33d7bde555bdee7.jpg" height="1000" width="1000"align="center">
+<img src="https://i.pinimg.com/736x/be/1f/4e/be1f4e22cf119da7dccfc00b3df03b9e.jpg" height="1000" width="1000"align="center">
 
 <h3 align="center">Im a dedicated digital development student with a burning passion for all things code.</h3>
 
