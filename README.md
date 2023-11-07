@@ -2,7 +2,7 @@
 <font face="verdana" color="#0000FF">
 <h1 align="center">Hi 👋, I'm Souhail Bechchari</h1>
 </font>
-<img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" height="200" width="600"align="middle">
+<img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" height="200" width="600"align="center">
 
 <h3 align="center">Im a dedicated digital development student with a burning passion for all things code.</h3>
 
@@ -12,7 +12,6 @@
          
    - 🌐 Full-stack web development using HTML, CSS, JavaScript, and various frameworks.
    - 📱 Mobile app development with technologies like React Native and Flutter.
-   - 📊 Data analysis and visualization using Python and data science libraries.
    - 🔧 Continuous integration and deployment (CI/CD) for seamless software delivery.
      
 -🌟 What I'm Excited About :
@@ -35,8 +34,8 @@ I'm always exploring and learning, but here are some things that currently pique
 <a href="https://instagram.com/itsss_souhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsss_souhail" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/souhail bechchari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souhail bechchari" height="30" width="40" /></a>
 </p>
-<img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" height="300" align="left">
-<img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47llg1q1zjlu1fltntwb2uvs88q7qr8z67gr6ray6y&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="300" align="center">
+
+<img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47llg1q1zjlu1fltntwb2uvs88q7qr8z67gr6ray6y&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="300" align="right">
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
