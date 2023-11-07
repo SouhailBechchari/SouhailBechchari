@@ -2,13 +2,27 @@
 <font face="verdana" color="#0000FF">
 <h1 align="center">Hi 👋, I'm Souhail Bechchari</h1>
 </font>
-<img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" height="200" width="600"align="right">
+<img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" height="200" width="600"align="middle">
 
 <h3 align="center">Im a dedicated digital development student with a burning passion for all things code.</h3>
 
 - 🔭 I’m currently studying on **Isgi Marrakech**
 
-- 🌱 I’m currently learning **JavaScript,C++,MySQL**
+- 🌱 I’m currently learning :
+         
+   - 🌐 Full-stack web development using HTML, CSS, JavaScript, and various frameworks.
+   - 📱 Mobile app development with technologies like React Native and Flutter.
+   - 📊 Data analysis and visualization using Python and data science libraries.
+   - 🔧 Continuous integration and deployment (CI/CD) for seamless software delivery.
+     
+-🌟 What I'm Excited About :
+
+I'm always exploring and learning, but here are some things that currently pique my interest:
+- 🚀 Exploring the latest trends in web and mobile development.
+- 📚 Learning more about cloud computing and DevOps practices.
+- 🧠 Exploring artificial intelligence and machine learning.
+- 🎨 Creating stunning UI/UX designs.
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/SouhailBechchari](https://github.com/SouhailBechchari)
 
