@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">Im a dedicated digital development student with a burning passion for all things code.</h3>
-
+<center>
 - 🔭 I’m currently studying on **Isgi Marrakech**
 
 - 🌱 I’m currently learning :
@@ -27,6 +27,7 @@ I'm always exploring and learning, but here are some things that currently pique
 - 👨‍💻 All of my projects are available at [https://github.com/SouhailBechchari](https://github.com/SouhailBechchari)
 
 - 📫 How to reach me **becharisouhail@gmail.com**
+   </center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
