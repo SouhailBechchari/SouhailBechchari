@@ -3,7 +3,33 @@
 </font>
 <div align="center">
   
-  <h1>Welcome to My GitHub Profile</h1>
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+
+    .animated-text {
+      animation: fadeIn 2s;
+    }
+  </style>
+  <title>Animated Text</title>
+</head>
+<body>
+  <div class="animated-text">
+    <h1>Souhail is Here to code</h1>
+  </div>
+
 
   <!-- Replace 'your-animation.gif' with the URL or path to your animated GIF -->
   <img src="your-animation.gif" alt="Animated GIF">
