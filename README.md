@@ -2,14 +2,13 @@
 <h1 align="center">Hi 👋, I'm Souhaïl Bechchari</h1>
 </font>
 <div align="center">
-  
   <style>
     @keyframes fadeIn {
       from { opacity: 0; }
       to { opacity: 1; }
     }
 
-    body {
+    div {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -23,9 +22,6 @@
       animation: fadeIn 2s;
     }
   </style>
-  <title>Animated Text</title>
-</head>
-<body>
   <div class="animated-text">
     <h1>Souhail is Here to code</h1>
   </div>
