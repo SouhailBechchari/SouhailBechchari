@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" height="200" width="600"align="center">
 </div>
 
-<h3 align="center"><font face="Roboto" ><Im a dedicated digital development student with a burning passion for all things code.</font></h3>
+<h3 align="center"><font face="Roboto" >Im a dedicated digital development student with a burning passion for all things code.</font></h3>
 <center>
 - 🔭 I’m currently studying on **Isgi Marrakech**
 
