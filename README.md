@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Souhaïl Bechchari</h1>
 </font>
 <div align="center">
-  
-  <img src="your-animation.gif" alt="Animated GIF">
-
-
-
+<img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" height="200" width="600"align="center">
 </div>
-
+<i>
 <h3 align="center">Im a dedicated digital development student with a burning passion for all things code.</h3>
 <center>
 - 🔭 I’m currently studying on **Isgi Marrakech**
@@ -49,3 +45,4 @@ I'm always exploring and learning, but here are some things that currently pique
   </a> </p>
   <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" height="300" align="right">
 <img src="https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47llg1q1zjlu1fltntwb2uvs88q7qr8z67gr6ray6y&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="300" align="middle">
+</i>
