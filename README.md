@@ -1,76 +1,49 @@
+<h1 align="center"><font face="verdana">Hi 👋, I'm Souhaïl Bechchari</font></h1>
+</font>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-## **<ins><div align="center">I'm Souhail Bechchari, a future software engineer from Morocco 🚀</div></ins>**  
-  
-
-- #### 🔭 I’m currently studying on ISGIMarrakech  
-  
-
-- 🌱 I’m currently learning Java and JavaScript  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" height="200" width="600"align="center">
 </div>
 
-</td><td valign="top" width="33%">
+<i><h3 align="center">Im a dedicated digital development student with a burning passion for all things code.</h3></i>
+<center>
+- 🔭 I’m currently studying on **Isgi Marrakech**
+
+- 🌱 I’m currently learning :
+         
+   - 🌐 Full-stack web development using HTML, CSS, JavaScript, and various frameworks.
+   - 📱 Mobile app development with technologies like React Native and Flutter.
+   - 🔧 Continuous integration and deployment (CI/CD) for seamless software delivery.
+     
+-🌟 What I'm Excited About :
+
+I'm always exploring and learning, but here are some things that currently pique my interest:
+- 🚀 Exploring the latest trends in web and mobile development.
+- 📚 Learning more about cloud computing and DevOps practices.
+- 🧠 Exploring artificial intelligence and machine learning.
+- 🎨 Creating stunning UI/UX designs.
 
 
+- 👨‍💻 All of my projects are available at [https://github.com/SouhailBechchari](https://github.com/SouhailBechchari)
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
+- 📫 How to reach me **becharisouhail@gmail.com**
+   </center>
 
-</td><td valign="top" width="33%">
+<i><h3 align="left">Connect with me:</h3></i>
+<p align="left">
+<a href="https://www.linkedin.com/in/souha%C3%AFl-bechchari-284b91293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souhail bechchari" height="30" width="40" /></a>
+<a href="https://fb.com/sou heyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sou heyl" height="30" width="40" /></a>
+<a href="https://instagram.com/itsss_souhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsss_souhail" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/souhail bechchari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souhail bechchari" height="30" width="40" /></a>
+</p>
 
+<img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47llg1q1zjlu1fltntwb2uvs88q7qr8z67gr6ray6y&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="300" align="right">
+<br>
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/SouhailBechchari" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/souha%C3%AFl-bechchari-284b91293/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/itsss_souhail" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/Souhail Bechchari" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/souhail.el.56829" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<i><h3 align="left">Languages and Tools:</h3></i>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> </p>
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" height="300" align="right">
+<img src="https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47llg1q1zjlu1fltntwb2uvs88q7qr8z67gr6ray6y&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="300" align="middle">
 
 <br/>  
 
