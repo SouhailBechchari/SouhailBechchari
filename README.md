@@ -1,11 +1,11 @@
 # welcome, i'm Souhail Bechchari,
 
 ## About Me
-I'm a dedicated digital development student with a strong passion for full-stack web development. Currently studying at **Isgi Marrakech**, I explore technologies like HTML, CSS, JavaScript, React Native, and Flutter for mobile app development. My interests also include CI/CD practices for seamless software delivery.
+I'm a dedicated digital development student with a strong passion for full-stack web development. Currently studying at **Isgi Marrakech**, I explore technologies like HTML, CSS, JavaScript, React Native, and Flutter for mobile app development. My interests also include software engineering.
 
 ## What Excites Me
 - Exploring the latest trends in web and mobile development.
-- Learning about cloud computing and DevOps practices.
+- exploring the latest trend of software and web engineering.
 - Delving into artificial intelligence and machine learning.
 - Crafting captivating UI/UX designs.
 
