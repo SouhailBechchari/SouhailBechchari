@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Souhaïl Bechchari
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/c7/a6/d2/c7a6d2e8074b4a1cf36f1f081f0d4370.jpg" alt="Profile Image" height="200" width="600">
-</div>
-
 ## About Me
 I'm Souhaïl Bechchari, a passionate digital development student with a focus on full-stack web development, including HTML, CSS, JavaScript, and various frameworks. Currently studying at **Isgi Marrakech**, I'm also exploring mobile app development with React Native and Flutter. My interests extend to continuous integration and deployment (CI/CD) for seamless software delivery.
 
@@ -14,10 +10,10 @@ I'm Souhaïl Bechchari, a passionate digital development student with a focus on
 - Crafting captivating UI/UX designs.
 
 ## Connect with Me
-- LinkedIn: [Souhaïl Bechchari](https://www.linkedin.com/in/souha%C3%AFl-bechchari-284b91293/)
-- Facebook: [Sou Heyl](https://fb.com/souheyl)
-- Instagram: [itsss_souhail](https://instagram.com/itsss_souhail)
-- YouTube: [Souhail Bechchari](https://www.youtube.com/c/souhailbechchari)
+- LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Souha%C3%AFl%20Bechchari-blue)](https://www.linkedin.com/in/souha%C3%AFl-bechchari-284b91293/)
+- Facebook [![Facebook](https://img.shields.io/badge/Facebook-Sou%20Heyl-blue)](https://fb.com/souheyl)
+- Instagram [![Instagram](https://img.shields.io/badge/Instagram-itsss_souhail-blue)](https://instagram.com/itsss_souhail)
+- YouTube [![YouTube](https://img.shields.io/badge/YouTube-Souhail%20Bechchari-red)](https://www.youtube.com/c/souhailbechchari)
 
 ## Reach Out
 - 📧 Email: becharisouhail@gmail.com
@@ -29,10 +25,3 @@ I'm Souhaïl Bechchari, a passionate digital development student with a focus on
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SouhailBechchari&show_icons=true&hide=issues&theme=radical" alt="GitHub Stats">
 </div>
-
-
-## Languages and Tools
-- C, HTML, CSS, Python
-- Adobe Illustrator, Photoshop
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailBechchari&show_icons=true&hide=issues&theme=radical)
