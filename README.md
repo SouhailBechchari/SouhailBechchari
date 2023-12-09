@@ -1,71 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hi there! 👋 I'm Souhaïl Bechchari
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Souhaïl Bechchari</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&family=Montserrat:wght@700&display=swap" rel="stylesheet">
-</head>
+## About Me
+I'm a dedicated digital development student with a strong passion for full-stack web development. Currently studying at **Isgi Marrakech**, I explore technologies like HTML, CSS, JavaScript, React Native, and Flutter for mobile app development. My interests also include CI/CD practices for seamless software delivery.
 
-<body>
+## What Excites Me
+- Exploring the latest trends in web and mobile development.
+- Learning about cloud computing and DevOps practices.
+- Delving into artificial intelligence and machine learning.
+- Crafting captivating UI/UX designs.
 
-    <header>
-        <h1>Hi there! 👋 I'm Souhaïl Bechchari</h1>
-    </header>
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souha%C3%AFl%20Bechchari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/souha%C3%AFl-bechchari-284b91293/)
+[![Facebook](https://img.shields.io/badge/Facebook-Sou%20Heyl-blue?style=flat-square&logo=facebook)](https://fb.com/souheyl)
+[![Instagram](https://img.shields.io/badge/Instagram-itsss_souhail-blue?style=flat-square&logo=instagram)](https://instagram.com/itsss_souhail)
+[![YouTube](https://img.shields.io/badge/YouTube-Souhail%20Bechchari-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/souhailbechchari)
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>I'm a dedicated digital development student with a strong passion for full-stack web development...</p>
-    </section>
+## Reach Out
+- 📧 Email: [becharisouhail@gmail.com](mailto:becharisouhail@gmail.com)
 
-    <section id="excites">
-        <h2>What Excites Me</h2>
-        <ul>
-            <li>Exploring the latest trends in web and mobile development.</li>
-            <li>Learning about cloud computing and DevOps practices.</li>
-            <li>Delving into artificial intelligence and machine learning.</li>
-            <li>Crafting captivating UI/UX designs.</li>
-        </ul>
-    </section>
+## Languages and Tools
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 
-    <section id="connect">
-        <h2>Connect with Me</h2>
-        <div class="social-icons">
-            <a href="https://www.linkedin.com/in/souha%C3%AFl-bechchari-284b91293/" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="https://fb.com/souheyl" target="_blank"><i class="fab fa-facebook"></i></a>
-            <a href="https://instagram.com/itsss_souhail" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.youtube.com/c/souhailbechchari" target="_blank"><i class="fab fa-youtube"></i></a>
-        </div>
-    </section>
-
-    <section id="reach-out">
-        <h2>Reach Out</h2>
-        <p>Email: <a href="mailto:becharisouhail@gmail.com">becharisouhail@gmail.com</a></p>
-    </section>
-
-    <section id="languages-tools">
-        <h2>Languages and Tools</h2>
-        <div class="languages-icons">
-            <i class="devicon-c-plain colored"></i>
-            <i class="devicon-html5-plain colored"></i>
-            <i class="devicon-css3-plain colored"></i>
-            <i class="devicon-python-plain colored"></i>
-            <i class="devicon-illustrator-plain colored"></i>
-            <i class="devicon-photoshop-plain colored"></i>
-        </div>
-    </section>
-
-    <div class="github-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=SouhailBechchari&show_icons=true&hide=issues&theme=radical" alt="GitHub Stats">
-    </div>
-
-    <footer>
-        <p>&copy; 2023 Souhaïl Bechchari</p>
-    </footer>
-
-</body>
-
-</html>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailBechchari&show_icons=true&hide=issues&theme=radical)
