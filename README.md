@@ -1,6 +1,6 @@
 <style>
     body {
-        font-family: 'Verdana', sans-serif;
+        font-family: 'Roboto', sans-serif;
         margin: 0;
         padding: 0;
         background-color: #f0f0f0;
@@ -35,3 +35,4 @@ I'm Souhaïl Bechchari, a passionate digital development student with a focus on
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SouhailBechchari&show_icons=true&hide=issues&theme=radical" alt="GitHub Stats">
 </div>
+
