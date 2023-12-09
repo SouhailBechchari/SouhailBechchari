@@ -28,8 +28,8 @@ I'm a dedicated digital development student with a strong passion for full-stack
 [![Adobe Illustrator](https://img.shields.io/badge/✒️%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Adobe Photoshop](https://img.shields.io/badge/📷%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 
-## *keepcoding!*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailBechchari&show_icons=true&hide=issues&theme=radical)
 
+## *keepcoding!*
 
