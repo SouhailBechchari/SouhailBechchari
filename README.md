@@ -31,5 +31,5 @@ I'm a dedicated digital development student with a strong passion for full-stack
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailBechchari&show_icons=true&hide=issues&theme=radical)
 
-## *keepcoding!*
+ *keepcoding!*
 
