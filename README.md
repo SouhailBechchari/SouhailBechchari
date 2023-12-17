@@ -21,7 +21,6 @@ I'm a dedicated digital development student with a strong passion for full-stack
 
 
 ## Languages and Tools
-[![C](https://img.shields.io/badge/💻%20C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![HTML5](https://img.shields.io/badge/🌐%20HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/🎨%20CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
