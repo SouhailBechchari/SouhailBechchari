@@ -23,8 +23,6 @@
 [![CSS3](https://img.shields.io/badge/🎨%20CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![Bootstrap](https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-![MySQL](https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png)
 
 
 
