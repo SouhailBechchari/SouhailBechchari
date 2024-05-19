@@ -1,7 +1,7 @@
 # Welcome! I'm Souhail Bechchari 👋
 
 ## About Me
-🚀 I'm a dedicated digital development student at **Isgi Marrakech** with a strong passion for full-stack web development .Certificated in Python language by CISCO. My journey involves exploring technologies like HTML, CSS,bootstrap, JavaScript, Python, PHP, React js, React Native, and Flutter for mobile app development. Web engineering is my playground, and I'm always eager to learn and create.
+🚀 I'm a moroccan dedicated digital development student at **Isgi Marrakech** with a strong passion for full-stack web development .Certificated in Python language by CISCO. My journey involves exploring technologies like HTML, CSS,bootstrap, JavaScript, Python, PHP, React js, React Native, and Flutter for mobile app development. Web engineering is my playground, and I'm always eager to learn and create.
 
 ## What Excites Me
 - 🌐 Exploring the latest trends in web development.
