@@ -11,9 +11,6 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/🌐%20LinkedIn-Souha%C3%AFl%20Bechchari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/souha%C3%AFl-bechchari-284b91293/)
-[![Facebook](https://img.shields.io/badge/📘%20Facebook-Sou%20Heyl-blue?style=for-the-badge&logo=facebook)](https://fb.com/souheyl)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-itsss_souhail-blue?style=for-the-badge&logo=instagram)](https://instagram.com/itsss_souhail)
-
 ## Reach Out
 - 📧 Email: [becharisouhail@gmail.com](mailto:becharisouhail@gmail.com)
 
